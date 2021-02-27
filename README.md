@@ -8,3 +8,5 @@ I actually have no idea how GitHub works, maybe I have to post this somewhere!
 
 I also would love to learn how to create an interface for this contract.
 
+This contract should simply let addresses deposit eth, get the contract balance, get address balance and withdraw and chosen amount withing the address balance.
+
